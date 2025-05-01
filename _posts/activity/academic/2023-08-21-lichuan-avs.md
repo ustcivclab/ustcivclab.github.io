@@ -6,7 +6,7 @@ thumbnail-img:
   https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/46bafb2d-d59d-451d-b334-871a593c6503
 tags:
   - academic
-is_show: true
+is_show: false
 ---
 
 ## The 85th AVS

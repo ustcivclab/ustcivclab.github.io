@@ -47,9 +47,9 @@ jekyll-archives:
 
 # jekyll-feed
 title: USTC iVC Lab
-author: ustc-ivclab
+author: ustcivclab
 description: Homepage for USTC iVC Lab
-url: https://ustc-ivclab.github.io
+url: https://ustcivclab.github.io
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -98,7 +98,7 @@ navbar-links:
 social-network-links:
   email: fanye@mail.ustc.edu.cn
   rss: true
-  github: ustc-ivclab
+  github: ustcivclab
 
 ################
 # --- Logo --- #

@@ -5,9 +5,14 @@ title: USTC iVC Lab Papers
 
 ## Journal papers
 
+- (Early Access) Haotian Zhang, Yuqi Li, Li Li, Dong Liu. Learning switchable priors for neural image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3577134)
+- (Early Access) Yao Li, Zhuoyuan Li, Dong Liu, Li Li. Frequency domain intra pattern copy for JPEG XS screen content coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3562963)
+- (Early Access) Fan Ye, Bojun Liu, Li Li, Dong Liu. Rate-distortion-optimized deep preprocessing for JPEG compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3550872)
 - (Early Access) Xihua Sheng, Li Li, Dong Liu, Shiqi Wang. Bi-directional deep contextual video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3543061)
-- (Early Access) Runyu Yang, Dong Liu, Feng Wu, Wen Gao. Learned image compression with efficient cross-platform entropy coding. IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS). [DOI](https://doi.org/10.1109/JETCAS.2025.3538652)
-- (Early Access) Yiheng Jiang, Haotian Zhang, Li Li, Dong Liu, Zhu Li. Sparse point clouds assisted learned image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2024.3522621)
+- Haotian Zhang, Li Li, Dong Liu. Generalized Gaussian model for learned image compression. IEEE Transactions on Image Processing (TIP). [DOI](https://doi.org/10.1109/TIP.2025.3550013)
+- Xihua Sheng, Li Li, Dong Liu, Houqiang Li. Prediction and reference quality adaptation for learned video compression. IEEE Transactions on Image Processing (TIP). [DOI](https://doi.org/10.1109/TIP.2025.3555401)
+- Runyu Yang, Dong Liu, Feng Wu, Wen Gao. Learned image compression with efficient cross-platform entropy coding. IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS). [DOI](https://doi.org/10.1109/JETCAS.2025.3538652)
+- Yiheng Jiang, Haotian Zhang, Li Li, Dong Liu, Zhu Li. Sparse point clouds assisted learned image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2024.3522621)
 - Changsheng Gao, Yiheng Jiang, Siqi Wu, Yifan Ma, Li Li, Dong Liu. IMOFC: Identity-level metric optimized feature compression for identification tasks. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2024.3467124)
 - Zhuoyuan Li, Zikun Yuan, Li Li, Dong Liu, Xiaohu Tang, Feng Wu. Object segmentation-assisted inter prediction for versatile video coding. IEEE Transactions on Broadcasting (TBC). [DOI](https://doi.org/10.1109/TBC.2024.3434520)
 - Runyu Yang, Dong Liu, Feng Wu, Wen Gao. CC-SMC: Chain coding-based segmentation map lossless compression. Journal of Visual Communication and Image Representation. [DOI](https://doi.org/10.1016/j.jvcir.2024.104222)
@@ -64,6 +69,11 @@ title: USTC iVC Lab Papers
 
 ## Conference papers
 
+- Changsheng Gao, Zhuoyuan Li, Li Li, Dong Liu, Feng Wu, Weisi Lin. Rethinking joint optimization in feature compression: Insights from person re-identification. ICME 2025
+- Chuanbo Tang, Zhuoyuan Li, Yifan Bian, Li Li, Dong Liu. Neural video compression with context modulation. CVPR 2025
+- Yifan Bian, Chuanbo Tang, Li Li, Dong Liu. Augmented deep contexts for spatially embedded video coding. CVPR 2025
+- Junqi Liao, Li Li, Dong Liu, Houqiang Li. EFVC: Error-propagation-free neural video coding with reversible transform. ISCAS 2025
+- Junqi Liao, Yao Li, Zhuoyuan Li, Li Li, Dong Liu. IVCA: Inter-relation-aware video complexity analyzer. ISCAS 2025
 - Siqi Wu, Yinda Chen, Dong Liu, Zhihai He. Conditional latent coding with learnable synthesized reference for deep image compression. AAAI 2025
 - Tianyu Zhang, Haotian Zhang, Yuqi Li, Li Li, Dong Liu. Few-shot domain adaptation for learned image compression. AAAI 2025
 - Yuqi Li, Haotian Zhang, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation control for learned image compression. VCIP 2024
@@ -72,9 +82,6 @@ title: USTC iVC Lab Papers
 - Zhirui Zuo, Junqi Liao, Xiaomin Song, Zheng Liu, Huiming Zheng, Dong Liu. Frame level content adaptive λ for neural video compression. VCIP 2024
 - Rui Mao, Xinmin Feng, Changsheng Gao, Li Li, Dong Liu, Xiaoyan Sun. Perceptual image compression with conditional diffusion transformers. VCIP 2024
 - Yifan Ma, Changsheng Gao, Qiaoxi Chen, Li Li, Dong Liu, Xiaoyan Sun. Feature compression with 3D sparse convolution. VCIP 2024
-- Zhuoyuan Li, Jiacheng Li, Yao Li, Li Li, Dong Liu, Feng Wu. In-loop filtering via trained look-up tables. VCIP 2024
-- Zhuoyuan Li, Yao Li, Chuanbo Tang, Li Li, Dong Liu, Feng Wu. Uniformly accelerated motion model for inter prediction. VCIP 2024
-- Yuqi Li, Haotian Zhang, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation control for learned image compression. VCIP 2024
 - Qiaoxi Chen, Changsheng Gao, Dong Liu. End-to-end learned scalable multilayer feature compression for machine vision tasks. ICIP 2024
 - Runyu Yang, Dong Liu, Feng Wu, Wen Gao. Neural radiance field-assisted static-scene video coding. ICIP 2024
 - Xinmin Feng, Li Li, Dong Liu, Feng Wu. Efficient partition map prediction via token sparsification for fast VVC intra coding. MMSP 2024

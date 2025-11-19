@@ -1,6 +1,6 @@
 ---
 category: people
-title: Lin, Jianping (林建平)
+title: Yang, Runyu (杨闰宇)
 tags:
   - alumni
 ---

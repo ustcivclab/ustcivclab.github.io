@@ -1,6 +1,6 @@
 ---
 category: people
-title: Lin, Jianping (林建平)
+title: Xue, Dongmei (薛冬梅)
 tags:
   - alumni
 ---

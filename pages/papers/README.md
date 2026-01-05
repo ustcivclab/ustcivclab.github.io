@@ -5,10 +5,12 @@ title: USTC iVC Lab Papers
 
 ## Journal papers
 
-- (Early Access) Haotian Zhang, Yuqi Li, Li Li, Dong Liu. Learning switchable priors for neural image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3577134)
-- (Early Access) Yao Li, Zhuoyuan Li, Dong Liu, Li Li. Frequency domain intra pattern copy for JPEG XS screen content coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3562963)
-- (Early Access) Fan Ye, Bojun Liu, Li Li, Dong Liu. Rate-distortion-optimized deep preprocessing for JPEG compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3550872)
-- (Early Access) Xihua Sheng, Li Li, Dong Liu, Shiqi Wang. Bi-directional deep contextual video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3543061)
+- (Early Access) Xinmin Feng, Zhuoyuan Li, Li Li, Dong Liu, Feng Wu. Partition map-based fast block partitioning for VVC inter coding. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3632639)
+- (Early Access) Zhuoyuan Li, Junqi Liao, Chuanbo Tang, Haotian Zhang, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A test dataset and benchmark for image and video coding in 2020s. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3608643)
+- Haotian Zhang, Yuqi Li, Li Li, Dong Liu. Learning switchable priors for neural image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3577134)
+- Yao Li, Zhuoyuan Li, Dong Liu, Li Li. Frequency domain intra pattern copy for JPEG XS screen content coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3562963)
+- Fan Ye, Bojun Liu, Li Li, Dong Liu. Rate-distortion-optimized deep preprocessing for JPEG compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3550872)
+- Xihua Sheng, Li Li, Dong Liu, Shiqi Wang. Bi-directional deep contextual video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3543061)
 - Haotian Zhang, Li Li, Dong Liu. Generalized Gaussian model for learned image compression. IEEE Transactions on Image Processing (TIP). [DOI](https://doi.org/10.1109/TIP.2025.3550013)
 - Xihua Sheng, Li Li, Dong Liu, Houqiang Li. Prediction and reference quality adaptation for learned video compression. IEEE Transactions on Image Processing (TIP). [DOI](https://doi.org/10.1109/TIP.2025.3555401)
 - Runyu Yang, Dong Liu, Feng Wu, Wen Gao. Learned image compression with efficient cross-platform entropy coding. IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS). [DOI](https://doi.org/10.1109/JETCAS.2025.3538652)
@@ -69,6 +71,12 @@ title: USTC iVC Lab Papers
 
 ## Conference papers
 
+- Changsheng Gao, Zijie Liu, Li Li, Dong Liu, Xiaoyan Sun, Weisi Lin. DT-UFC: Universal large model feature coding via peaky-to-balanced distribution transformation. ACM MM 2025
+- Junqi Liao, Yaojun Wu, Chaoyi Lin, Zhipin Deng, Li Li, Dong Liu, Xiaoyan Sun. EHVC: Efficient hierarchical reference and quality structure for neural video coding. ACM MM 2025
+- Yuqi Li, Haotian Zhang, Li Li, Dong Liu. Learned image compression with hierarchical progressive context modeling. ICCV 2025
+- Changsheng Gao, Yifan Ma, Qiaoxi Chen, Yenan Xu, Dong Liu, Weisi Lin. Feature coding in the era of large models: Dataset, test conditions, and benchmark. ICCV 2025
+- Tianyu Zhang, Xin Luo, Li Li, Dong Liu. StableCodec: Taming one-step diffusion for extreme image compression. ICCV 2025
+- Yangzhi Ma, Bojun Liu, Li Li, Dong Liu, Zhu Li. Joint geometry-attribute point cloud compression with spatial context mining and dual-class attribute loss. ICIP 2025
 - Changsheng Gao, Zhuoyuan Li, Li Li, Dong Liu, Feng Wu, Weisi Lin. Rethinking joint optimization in feature compression: Insights from person re-identification. ICME 2025
 - Chuanbo Tang, Zhuoyuan Li, Yifan Bian, Li Li, Dong Liu. Neural video compression with context modulation. CVPR 2025
 - Yifan Bian, Chuanbo Tang, Li Li, Dong Liu. Augmented deep contexts for spatially embedded video coding. CVPR 2025

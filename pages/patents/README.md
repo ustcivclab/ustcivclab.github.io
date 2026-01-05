@@ -3,6 +3,11 @@ layout: page
 title: USTC iVC Lab Patents
 ---
 
+- 刘东,卞逸凡,李礼. 一种端到端视频编解码方法、系统、设备及存储介质. 202510453087.6. 2025.04.11申请. 2025.09.23授权.
+- 刘东,卞逸凡,盛锡华,李礼. 一种视频编码方法及系统. 202410105013.9. 2024.01.25申请. 2025.09.19授权.
+- 刘东,唐传波,李礼. 一种时域上下文的优化方法及装置. 202510449828.3. 2025.04.10申请. 2025.09.16授权.
+- 杨闰宇,刘东,吴枫. 基于轮廓的帧间预测方法、系统、设备与存储介质. 202410259982.X. 2024.03.07申请. 2025.09.16授权.
+- 李礼,薛冬梅,马海川,刘东,熊志伟,李厚强. 三维生物医学视频压缩方法、系统、设备及存储介质. 202310299489.6. 2023.03.24申请. 2025.09.12授权.
 - 李礼, 薛冬梅, 马海川, 刘东, 熊志伟. 三维生物医学图像压缩方法、系统、设备及存储介质. 202210099132.9. 2022.01.27申请. 2025.05.09授权.
 - Feng Wu, Ning Yan, Dong Liu, Houqiang Li, Haitao Yang. Interpolation filter training method and apparatus, video picture encoding and decoding method, and encoder and decoder. US 12,177,470. 2024/12/24授权.
 - Feng Wu, Haichuan Ma, Dong Liu, Haitao Yang. Image encoding/decoding method and apparatus based on wavelet transform. US 12,175,713. 2024/12/24授权.

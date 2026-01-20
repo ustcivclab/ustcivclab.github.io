@@ -7,6 +7,7 @@ title: USTC iVC Lab Papers
 
 - (Early Access) Xinmin Feng, Zhuoyuan Li, Li Li, Dong Liu, Feng Wu. Partition map-based fast block partitioning for VVC inter coding. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3632639)
 - (Early Access) Zhuoyuan Li, Junqi Liao, Chuanbo Tang, Haotian Zhang, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A test dataset and benchmark for image and video coding in 2020s. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3608643)
+- Fan Ye, Li Li, Dong Liu. Variable-rate learned image compression with integer-arithmetic-only inference. Journal of Visual Communication and Image Representation. [DOI](https://doi.org/10.1016/j.jvcir.2025.104634)
 - Haotian Zhang, Yuqi Li, Li Li, Dong Liu. Learning switchable priors for neural image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3577134)
 - Yao Li, Zhuoyuan Li, Dong Liu, Li Li. Frequency domain intra pattern copy for JPEG XS screen content coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3562963)
 - Fan Ye, Bojun Liu, Li Li, Dong Liu. Rate-distortion-optimized deep preprocessing for JPEG compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3550872)

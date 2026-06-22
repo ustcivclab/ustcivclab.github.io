@@ -5,14 +5,24 @@ title: USTC iVC Lab Papers
 
 ## Journal papers
 
-- (Early Access) Xinmin Feng, Zhuoyuan Li, Li Li, Dong Liu, Feng Wu. Partition map-based fast block partitioning for VVC inter coding. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3632639)
-- (Early Access) Zhuoyuan Li, Junqi Liao, Chuanbo Tang, Haotian Zhang, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A test dataset and benchmark for image and video coding in 2020s. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3608643)
+- (Early Access) Siqi Wu, Weiming Chen, Yinda Chen, Dong Liu, K. C. Ho, Zhihai He. Joint semantic and coded generation for conditional latent coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2026.3702531)
+- (Early Access) Jialin Li, Zhuoyuan Li, Yao Li, Dong Liu, Li Li. Multi-model local illumination compensation for Enhanced Compression Model. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/10.1109/TCSVT.2026.3696032)
+- (Early Access) Hui Xiang, Yifan Bian, Yuqi Li, Haotian Zhang, Li Li, Dong Liu. Efficient frequency-domain modeling for lossless recompression of variable-rate JPEG images. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/10.1109/TMM.2026.3695742)
+- (Early Access) Chuanbo Tang, Xihua Sheng, Li Li, Dong Liu, Feng Wu. NVC-1B: Scaling up neural video coding models. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [DOI](https://doi.org/10.1109/10.1109/TPAMI.2026.3689998)
+- (Early Access) Bojun Liu, Xihua Sheng, Li Li, Dong Liu, Houqiang Li. Distributed deep point cloud feature compression for vehicle-to-vehicle cooperative perception. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/10.1109/TMM.2026.3655479)
+- Xinmin Feng, Li Li, Dong Liu, Feng Wu. TVRN: Invertible neural networks for compression-aware temporal video rescaling. IEEE Transactions on Image Processing (TIP). [DOI](https://doi.org/10.1109/10.1109/TIP.2026.3694656)
+- Bojun Liu, Yangzhi Ma, Li Li, Dong Liu, Zhu Li, Houqiang Li. Next bit prediction: A unified lossless and lossy point cloud geometry compression framework. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [DOI](https://doi.org/10.1109/10.1109/TPAMI.2025.3650590)
+- Haotian Zhang, Dong Liu. The gap between principle and practice of lossy image coding. Journal of University of Science and Technology of China. [DOI](https://doi.org/10.52396/JUSTC-2024-0138)
+- Xinmin Feng, Zhuoyuan Li, Li Li, Dong Liu, Feng Wu. Partition map-based fast block partitioning for VVC inter coding. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3632639)
+- Zhuoyuan Li, Junqi Liao, Chuanbo Tang, Haotian Zhang, Yuqi Li, Yifan Bian, Xihua Sheng, Xinmin Feng, Yao Li, Changsheng Gao, Li Li, Dong Liu, Feng Wu. USTC-TD: A test dataset and benchmark for image and video coding in 2020s. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3608643)
 - Fan Ye, Li Li, Dong Liu. Variable-rate learned image compression with integer-arithmetic-only inference. Journal of Visual Communication and Image Representation. [DOI](https://doi.org/10.1016/j.jvcir.2025.104634)
 - Haotian Zhang, Yuqi Li, Li Li, Dong Liu. Learning switchable priors for neural image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3577134)
 - Yao Li, Zhuoyuan Li, Dong Liu, Li Li. Frequency domain intra pattern copy for JPEG XS screen content coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3562963)
 - Fan Ye, Bojun Liu, Li Li, Dong Liu. Rate-distortion-optimized deep preprocessing for JPEG compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2025.3550872)
 - Xihua Sheng, Li Li, Dong Liu, Shiqi Wang. Bi-directional deep contextual video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3543061)
 - Haotian Zhang, Li Li, Dong Liu. Generalized Gaussian model for learned image compression. IEEE Transactions on Image Processing (TIP). [DOI](https://doi.org/10.1109/TIP.2025.3550013)
+- Dongmei Xue, Siqi Wu, Li Li, Dong Liu, Zhu Li. Multi-source domain generalization for learned lossless volumetric biomedical image compression. IEEE Transactions on Image Processing (TIP). [DOI](https://doi.org/10.1109/TIP.2025.3592549)
+- Hui Hu, Yunhui Shi, Jin Wang, Dong Liu, Nam Ling, Baocai Yin. Learned spherical image compression with spherical convolution-self-attention and transformer context model. IEEE Transactions on Image Processing (TIP). [DOI](https://doi.org/10.1109/TIP.2025.3585721)
 - Xihua Sheng, Li Li, Dong Liu, Houqiang Li. Prediction and reference quality adaptation for learned video compression. IEEE Transactions on Image Processing (TIP). [DOI](https://doi.org/10.1109/TIP.2025.3555401)
 - Runyu Yang, Dong Liu, Feng Wu, Wen Gao. Learned image compression with efficient cross-platform entropy coding. IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS). [DOI](https://doi.org/10.1109/JETCAS.2025.3538652)
 - Yiheng Jiang, Haotian Zhang, Li Li, Dong Liu, Zhu Li. Sparse point clouds assisted learned image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2024.3522621)
@@ -72,6 +82,20 @@ title: USTC iVC Lab Papers
 
 ## Conference papers
 
+- Xiongzhuang Liang, Chuanbo Tang, Zhuoyuan Li, Li Li, Dong Liu. Perceptual neural video compression with color separation and rank chain. CVPR 2026
+- Hui Xiang, Yifan Bian, Li Li, Jingran Wu, Xianguo Zhang, Dong Liu. Real-time neural video compression with unified intra and inter coding. CVPR 2026
+- Tianyu Zhang, Dong Liu, Chang Wen Chen. Ultra-low bitrate perceptual image compression with shallow encoder. CVPR 2026
+- Xihua Sheng, Lingyu Zhu, Tianyu Zhang, Dong Liu, Shiqi Wang, Jing Wang. CADC: Content adaptive diffusion-based generative image compression. CVPR 2026
+- Junqi Liao, Yaojun Wu, Chaoyi Lin, Zhipin Deng, Li Li, Dong Liu, Xiaoyan Sun. Content-adaptive hierarchical hyperprior for neural video coding. CVPR 2026
+- Yenan Xu, Changsheng Gao, Li Li, Dong Liu. Topic-guided and context-accumulated conditions for prompt compression. ISCAS 2026
+- Ziwen Xiong, Yiheng Jiang, Li Li, Dong Liu. FNeRV: Frequency-aware neural video representations with dynamic spatial guidance. ISCAS 2026
+- Mingming Zhang, Jialin Li, Jiazhen Wang, Yao Li, Xinmin Feng, Zhuoyuan Li, Li Li, Dong Liu. Standard-compliant joint optimization of rate-distortion-decoding-complexity for Versatile Video Coding. ISCAS 2026
+- Tianyu Zhang, Li Li, Dong Liu. Pruned channel context modeling for learned image compression. DCC 2026
+- Qian He, Yuqi Li, Yiheng Jiang, Haotian Zhang, Li Li, Dong Liu. Practical image compression with energy-guided asymmetric entropy modeling. DCC 2026
+- Chuanbo Tang, Zhuoyuan Li, Li Li, Dong Liu, Feng Wu. Neural video compression with reference hierarchy. AAAI 2026
+- Qiaoxi Chen, Changsheng Gao, Li Li, Dong Liu. Transform-free feature coding via entropy-constrained vector quantization. AAAI 2026
+- Lei Liu, Chuanbo Tang, Yifan Bian, Li Li, Dong Liu. Enhanced inter-frame dependency modeling with state space models for neural video compression. VCIP 2025
+- Yuqi Li, Haotian Zhang, Xiongzhuang Liang, Qian He, Yiheng Jiang, Li Li, Dong Liu. Transformer-based channel autoregressive with space-to-channel context ordering for learned image compression. VCIP 2025
 - Changsheng Gao, Zijie Liu, Li Li, Dong Liu, Xiaoyan Sun, Weisi Lin. DT-UFC: Universal large model feature coding via peaky-to-balanced distribution transformation. ACM MM 2025
 - Junqi Liao, Yaojun Wu, Chaoyi Lin, Zhipin Deng, Li Li, Dong Liu, Xiaoyan Sun. EHVC: Efficient hierarchical reference and quality structure for neural video coding. ACM MM 2025
 - Yuqi Li, Haotian Zhang, Li Li, Dong Liu. Learned image compression with hierarchical progressive context modeling. ICCV 2025
